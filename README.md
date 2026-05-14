@@ -95,8 +95,13 @@ Testing was conducted in a controlled environment:
 > Full maze implementation is a future extension.
 
 ---
+## 6. Block Diagram
 
-## 6. Hardware Components
+![Block Diagram](images/block_diagram.png)
+
+---
+
+## 7. Hardware Components
 
 | Component | Function |
 |----------|----------|
@@ -110,7 +115,7 @@ Testing was conducted in a controlled environment:
 
 ---
 
-## 7. UART Communication
+## 8. UART Communication
 
 | Signal | MSP432 Pin | Raspberry Pi Pin | Description |
 |--------|------------|------------------|-------------|
@@ -122,7 +127,7 @@ Communication uses single-character command encoding.
 
 ---
 
-## 8. Repository Structure
+## 9. Repository Structure
 
 ```text
 ECE528_LiDAR_Robot/
